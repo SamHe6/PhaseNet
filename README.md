@@ -15,3 +15,8 @@ in both general identification and fine-grained classification tasks. This modul
 robust tool for the systematic discovery and annotation of phase separation proteins.
 
 ![The workflow of this study](https://github.com/SamHe6/PhaseNet/blob/main/workflow.png)
+
+# Dataset for this study
+We provided our dataset and you can find them [Dataset]()
+# Source code
+We provide the source code and you can find them [Code]()
