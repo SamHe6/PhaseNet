@@ -17,6 +17,6 @@ robust tool for the systematic discovery and annotation of phase separation prot
 ![The workflow of this study](https://github.com/SamHe6/PhaseNet/blob/main/workflow.png)
 
 # Dataset for this study
-We provided our dataset and you can find them [Dataset]()
+We provided our dataset and you can find them [Dataset](https://github.com/SamHe6/PhaseNet/tree/main/Dataset)
 # Source code
 We provide the source code and you can find them [Code]()
