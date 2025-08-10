@@ -16,6 +16,14 @@ robust tool for the systematic discovery and annotation of phase separation prot
 
 ![The workflow of this study](https://github.com/SamHe6/PhaseNet/blob/main/workflow.png)
 
+# Requirements<bar>
+```
+•python==3.12.3
+•numpy==2.1.3
+•Pandas==2.3.1
+•scikit-learn==1.6.1
+•tensorflow==2.12.0
+```
 # Datasets
 We provided our dataset and you can find them [Dataset](https://github.com/SamHe6/PhaseNet/tree/main/Dataset)
 # Code
