@@ -28,3 +28,7 @@ robust tool for the systematic discovery and annotation of phase separation prot
 We provided our dataset and you can find them [Dataset](https://github.com/SamHe6/PhaseNet/tree/main/Dataset)
 # Code
 We provide the source code and you can find them [Code](https://github.com/SamHe6/PhaseNet/tree/main/Code)
+# ESM-2 Protein Language Model
+```bash
+https://huggingface.co/docs/transformers/en/model_doc/esm
+```
