@@ -22,7 +22,7 @@ robust tool for the systematic discovery and annotation of phase separation prot
 •numpy==2.1.3
 •Pandas==2.3.1
 •scikit-learn==1.6.1
-•tensorflow==2.12.0
+•PyTorch==2.5.1
 ```
 # Datasets
 We provided our dataset and you can find them [Dataset](https://github.com/SamHe6/PhaseNet/tree/main/Dataset)
@@ -32,3 +32,14 @@ We provide the source code and you can find them [Code](https://github.com/SamHe
 ```bash
 https://huggingface.co/docs/transformers/en/model_doc/esm
 ```
+# Predicting LLPS proteins and their subtypes
+## Task 1: Predict LLPS proteins
+10-fold cross-validation
+```bash
+python validation.py
+```
+Predict 9 LLPS proteins
+Please run [9protein_test.ipynb](https://github.com/SamHe6/PhaseNet/blob/main/Code/First%20task/9protein_test.ipynb).
+## Task 2: Subtype classification
+Please run [Training.ipynb](https://github.com/SamHe6/PhaseNet/blob/main/Code/Second%20task/Training.ipynb) for training, and [Testing.ipynb](https://github.com/SamHe6/PhaseNet/blob/main/Code/Second%20task/Testing.ipynb) for evaluation.
+
