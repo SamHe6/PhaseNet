@@ -1,4 +1,4 @@
-# Welcome to PhaseNet: A computational framework for identifying phase separation proteins based on protein language model
+# Welcome to PhaseNet: A computational framework for identifying phase-separating proteins based on protein language model
 
 Biomolecular condensates formed through liquid–liquid phase separation (LLPS) are essential for a wide range of cellular
 functions, and their dysregulation is implicated in various diseases. Accurate identification of phase separation proteins is
