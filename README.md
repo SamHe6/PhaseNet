@@ -11,7 +11,7 @@ attention-guided fusion and optimized using an HSIC-based regularization strateg
 In the second task, PhaseNet applies Lasso-based feature selection on ESM-derived embeddings, followed by a stacking
 ensemble composed of five classifiers, including Random Forest, Extra Trees, GBDT, XGBoost, and MLP. Extensive
 benchmarking across multiple independent test sets demonstrates that PhaseNet outperforms existing LLPS predictors
-in both general identification and fine-grained classification tasks. This modular and interpretable framework provides a
+in both general identification and fine-grained classification tasks. This framework provides a
 robust tool for the systematic discovery and annotation of phase separation proteins.
 
 ![The workflow of this study](https://github.com/SamHe6/PhaseNet/blob/main/workflow.png)
